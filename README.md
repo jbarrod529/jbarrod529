@@ -1,6 +1,7 @@
 ### About Me 👋
 
 Reconduciendo mi vida hacia la informatica desde 2023.
+
 🤔 I’m looking for help with ... MYSQL, Java, AWS, PHP
 
 <!--
