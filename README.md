@@ -2,7 +2,7 @@
 
 Reconduciendo mi vida hacia la informatica desde 2023.
 
-🤔 I’m looking for help with ... MYSQL, Java, <img serc="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">, PHP
+🤔 I’m looking for help with ... MYSQL, Java, <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">, PHP
 
 some Software i often use:
 
